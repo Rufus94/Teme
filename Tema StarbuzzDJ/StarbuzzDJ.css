@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+h1{
+color: rgb(51, 192, 178);
+font-family: sans-serif;
+font-size: 1.5em;
+}
+
+div{
+position: relative;
+top: 10em;
+left: 8em;
+transform: rotate(350deg);
+box-shadow: 3px 4px 6px 3px grey;
+width: 35em;
+height: 15em;
+padding:0.2em;
+}
+
+ ul li{
+font-style: italic;
+}
+
+span{
+font-weight: bold;
+font-style: normal;
+
+}
