@@ -1,0 +1,58 @@
+div {
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+    width: 18em;
+}
+
+h1 {
+    font-size: 1.8em;
+    color: #272525;
+    font-weight: bold;
+}
+
+label {
+    display: block;
+    padding: auto;
+    margin: 0.8em 0 0 0;
+    font-size: 0.7em;
+    font-weight: bold;
+    color: rgb(158, 156, 156);
+}
+
+input {
+    display: block;
+    border: 0;
+    font-size: 0.9em;
+    font-weight: normal;
+    border-bottom: 1px solid rgb(207, 205, 205);
+    height: 1.8em;
+    width: 18em;
+    font-family: 'Poppins',sans-serif;
+}
+
+textarea{
+border: 0;
+border-bottom: 1px solid rgb(207, 205, 205);
+font-family: 'Poppins',sans-serif;
+font-size: 0.9em;
+height: 5em;
+width: 18em;
+
+}
+
+::placeholder{
+    color: #dddddd;
+}
+
+button {
+    position: relative;
+    left: 7.5em;
+    border: 0;
+    top: 1.5em;
+    height: 2em;
+    width: 11em;
+    border-radius: 3.5em;
+    background: rgb(195,34,137);
+    background: linear-gradient(0deg, rgba(195,34,137,1) 0%, rgba(213,120,98,1) 100%);
+    color: white;
+}
