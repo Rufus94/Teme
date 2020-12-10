@@ -1,0 +1,40 @@
+body{
+text-align: center;
+background-color: rgb(229, 191, 147);
+font-family: sans-serif;
+}
+
+h1{
+color: rgb(45, 165, 45);
+font-size: 2em;
+font-weight: lighter;
+}
+
+h2{
+color: rgb(65, 65, 223);
+font-family: serif;
+font-size: 3em;
+font-weight: normal;
+}
+p{
+font-size: 1em;
+
+}
+div{
+height: 5.5em;
+width: 25em;
+margin: auto;
+margin-top: -1em;
+margin-bottom: 2em;
+}
+
+a{
+font-size: 0.6em;
+font-weight: bold;
+color: rgb(74, 74, 194);
+
+}
+
+span{
+    color:black;
+}
