@@ -27,20 +27,19 @@ input {
     border-bottom: 1px solid rgb(207, 205, 205);
     height: 1.8em;
     width: 18em;
-    font-family: 'Poppins',sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
-textarea{
-border: 0;
-border-bottom: 1px solid rgb(207, 205, 205);
-font-family: 'Poppins',sans-serif;
-font-size: 0.9em;
-height: 5em;
-width: 18em;
-
+textarea {
+    border: 0;
+    border-bottom: 1px solid rgb(207, 205, 205);
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.9em;
+    height: 5em;
+    width: 18em;
 }
 
-::placeholder{
+::placeholder {
     color: #dddddd;
 }
 
@@ -52,7 +51,7 @@ button {
     height: 2em;
     width: 11em;
     border-radius: 3.5em;
-    background: rgb(195,34,137);
-    background: linear-gradient(0deg, rgba(195,34,137,1) 0%, rgba(213,120,98,1) 100%);
+    background: rgb(195, 34, 137);
+    background: linear-gradient(0deg, rgba(195, 34, 137, 1) 0%, rgba(213, 120, 98, 1) 100%);
     color: white;
 }
