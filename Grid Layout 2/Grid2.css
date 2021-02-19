@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.grid-container {
+height: 100vh;
+display: grid;
+grid-template:
+"header header header" 20%
+"nav main ads" 70%
+"footer footer footer"10%
+/ 20% 60% 20%;
+grid-gap: 10px;
+}
+
+.grid-item {
+background-color: #ccc;
+
+}
+
+.item-1 {
+grid-area: header;
+}
+
+.item-2 {
+   grid-area: nav;
+}
+
+.item-3 {
+    grid-area: main;
+
+}
+
+.item-4 {
+    grid-area: ads;
+}
+
+.item-5 {
+    grid-area: footer;
+}
