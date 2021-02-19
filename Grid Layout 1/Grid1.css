@@ -10,11 +10,11 @@
 height: 100vh;
 display: grid;
 grid-template:
-"header header header" 23%
-"nav main ads" 65%
-"footer footer footer"12%
+"header header header" 15%
+"nav main ads" 75%
+"footer footer footer" 10%
 / 33% 33% 33%;
-grid-gap: 10px;
+grid-gap: 15px;
 }
 
 .grid-item {
