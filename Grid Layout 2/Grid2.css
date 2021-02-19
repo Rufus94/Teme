@@ -13,7 +13,7 @@ grid-template:
 "header header header" 20%
 "nav main ads" 70%
 "footer footer footer"10%
-/ 20% 60% 20%;
+/ 15% 60% 25%;
 grid-gap: 10px;
 }
 
